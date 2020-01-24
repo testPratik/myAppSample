@@ -1,1 +1,1 @@
-this is js file
+this is js file 'change 1'
